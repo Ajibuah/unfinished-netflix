@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: rgb(65, 65, 65);
+    height: 550vh;
+    width: 100%;
+
+}
+.section1{
+    background-image: url( https://assets.nflxext.com/ffe/siteui/vlv3/dace47b4-a5cb-4368-80fe-c26f3e77d540/8ab8459d-e63e-43e3-b217-00afb27a4d58/NG-en-20231023-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    height: 700px;
+    width: 100%;
+}
+.section2{
+    margin-top: 8px ;
+    background-color:black ;
+    height: 600px;
+    width: 100%;
+}
+ .section2a{
+    color: white;
+    flex: left;
+    margin-left: 10px;
+    padding: 270px 0px 0px 180px;    
+    font-size: 30px;
+}
+.section2 .section2b img {
+  float: right;
+  margin-right: 180px;
+  height: 420px;
+  margin-top: 80px;
+ 
+}
+.sss {
+    font-size: 50px;
+    color: white;
+    margin-left: 450px;
+
+}
+.section2a p{
+    font-size: 20px;
+}
+.section3{
+    margin-top: 8px ;
+    background-color:black ;
+    height: 600px;
+    width: 100%;
+}
+.section3a{
+    color: white;
+    margin-right: 120px;
+    float: right ;
+    margin-top: 190px;
+
+}
+.section3a h1{
+    font-size: 60px;
+
+}
+.section3a p{
+    font-size: 20px;
+}
+.section3 .section3b img{
+    float: left;
+    height: 420px;
+    margin-left: 190px;
+    margin-top: 80px;
+
+}
+.section4{
+    margin-top: 8px ;
+    background-color:black ;
+    height: 400px;
+    width: 100%;
+   
+}
+.section4a{
+    color: white;
+    margin-left: 300px;
+    padding: 50px;
+}
+.section4a h1{
+    font-size: 60px;
+
+}
+.section4a p{
+    font-size: 20px;
+}
+.section4a h1{
+
+}
+
+.section5{
+    margin-top: 8px ;
+    background-color:black ;
+    height: 600px;
+    width: 100%;
+
+}
+.section5a{
+    color: white;
+    margin-right: 120px;
+    float: right ;
+    margin-top: 190px;
+}
+.section5a h1{
+    font-size: 60px;
+
+}
+.section5a p{
+    font-size: 20px;
+}
+.section5 .section5b img{
+    float: left;
+    height: 420px;
+    margin-left: 190px;
+    margin-top: 80px;
+
+}
+.section6{
+    margin-top: 8px ;
+    background-color:black ;
+    height: 1000px;
+    width: 100%;
+
+
+}
+.footer{
+    margin-top: 8px ;
+    background-color:black ;
+    height: 400px;
+    width: 100%;
+
+}
+.rec1{
+    color: white;
+    background-color: rgb(48, 48, 48);
+    margin-right: 180px;
+    margin-left: 180px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    font-size: 23px;
+}
+/* .rec1{
+    float: left;
+} */
+/* .cross{
+    float: right;
+} */
